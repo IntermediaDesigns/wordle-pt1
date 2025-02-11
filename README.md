@@ -30,6 +30,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [![Video Title](https://img.youtube.com/vi/7jQAeH3rRbc/maxresdefault.jpg)](https://www.youtube.com/shorts/7jQAeH3rRbc)
 
+![Video](wordlept1.gif)
+
 
 ## Notes
 
